@@ -5,11 +5,18 @@
 
 .two {
   color: blue;
+
 }
 
 .three {
   color: white;
+
 }
 body {
   background-color: grey;
+}
+
+.margin{
+  margin-top: 5%;
+  margin-bottom: 5%;
 }
